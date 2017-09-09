@@ -19,7 +19,6 @@ Everyone can access our app whether you’re a donor, beneficiaries or a normal 
 - Everyone can save millions of lives in just donating their blood.
 
 ## Group Members
-List your group members here as well as their corresponding designation to your teams. Depending on your professor, the list below may vary:
 - Project Manager: Zulueta, Roberto
 - Application Engineer (developer): Exiomo, Reannie Danielle, Del Rosario, Eldrin Rei
 - Database Engineer: Isaac, Princes Joi
